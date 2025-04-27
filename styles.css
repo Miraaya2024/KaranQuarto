@@ -1,0 +1,30 @@
+/* styles.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff8f7;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    color: #FF7555;
+  }
+  
+  a {
+    color: #FF96A3;
+  }
+  
+  .sidebar-title {
+    color: #FF7555;
+  }
+  
+  .sidebar {
+    background-color: #FFE5E0;
+  }
+  
+  .code {
+    background-color: #fff0ee;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  

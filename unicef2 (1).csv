@@ -1,0 +1,1014 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Proportion of individuals who own a mobile telephone,2016,47,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Proportion of individuals who own a mobile telephone,2018,83,Female,,%,,,,Total
+Algeria,DZ,DZA,12,Proportion of individuals who own a mobile telephone,2018,93,Male,,%,,,,Total
+Algeria,DZ,DZA,12,Proportion of individuals who own a mobile telephone,2018,88,Total,,%,,,,Total
+Angola,AO,AGO,24,Proportion of individuals who own a mobile telephone,2014,80,Female,,%,,,,Total
+Angola,AO,AGO,24,Proportion of individuals who own a mobile telephone,2014,78,Male,,%,,,,Total
+Angola,AO,AGO,24,Proportion of individuals who own a mobile telephone,2014,79,Total,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2022,89,Female,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2022,89,Male,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2019,84,Total,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2020,88,Total,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2021,88,Total,,%,,,,Total
+Argentina,AR,ARG,32,Proportion of individuals who own a mobile telephone,2022,89,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2017,73,Female,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2018,77,Female,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2017,73,Male,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2018,76,Male,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2017,73,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of individuals who own a mobile telephone,2018,76,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2014,71,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2015,70,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2016,70,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2017,80,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2018,79,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2019,79,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2020,80,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2021,83,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2023,83,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2014,77,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2015,78,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2016,77,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2017,88,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2018,88,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2019,88,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2020,88,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2021,85,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2023,85,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2013,72,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2014,74,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2015,74,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2016,73,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2017,84,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2018,84,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2019,84,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2020,84,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2021,84,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of individuals who own a mobile telephone,2023,84,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2015,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2016,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2017,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2018,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2019,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2020,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2021,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2022,100,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2015,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2016,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2017,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2018,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2019,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2020,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2021,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2022,100,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2015,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2016,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2017,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2018,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2019,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2020,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2021,100,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Proportion of individuals who own a mobile telephone,2022,100,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2021,51,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2023,55,Female,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2021,72,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2023,72,Male,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2021,62,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of individuals who own a mobile telephone,2023,64,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2017,95,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2018,96,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2019,96,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2020,97,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2021,98,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2022,98,Female,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2017,91,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2018,94,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2019,94,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2020,95,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2021,96,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2022,96,Male,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2017,93,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2018,95,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2019,95,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2020,96,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2021,97,Total,,%,,,,Total
+Belarus,BY,BLR,112,Proportion of individuals who own a mobile telephone,2022,97,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of individuals who own a mobile telephone,2021,88,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of individuals who own a mobile telephone,2021,86,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of individuals who own a mobile telephone,2021,87,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2014,85,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2015,85,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2016,84,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2017,84,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2018,84,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2019,86,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2020,90,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2021,90,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2022,89,Female,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2014,83,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2015,82,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2016,82,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2017,83,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2018,82,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2019,83,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2020,88,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2021,88,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2022,87,Male,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2014,84,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2015,84,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2016,83,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2017,83,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2018,83,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2019,85,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2020,89,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2021,89,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of individuals who own a mobile telephone,2022,88,Total,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2016,78,Female,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2017,77,Female,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2016,76,Male,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2017,76,Male,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2016,77,Total,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Proportion of individuals who own a mobile telephone,2017,77,Total,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2016,99,Female,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2019,99,Female,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2016,99,Male,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2019,91,Male,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2016,99,Total,,%,,,,Total
+Brunei,BN,BRN,96,Proportion of individuals who own a mobile telephone,2019,94,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2013,9,Female,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2014,7,Female,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2017,12,Female,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2013,20,Male,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2014,16,Male,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2017,25,Male,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2013,14,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2014,11,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of individuals who own a mobile telephone,2017,18,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2015,68,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2016,71,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2017,74,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2019,71,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2015,74,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2016,74,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2017,75,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2019,73,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2015,71,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2016,72,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2017,74,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Proportion of individuals who own a mobile telephone,2019,72,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2017,27,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2019,71,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2017,26,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2019,72,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2017,26,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of individuals who own a mobile telephone,2018,62,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Proportion of individuals who own a mobile telephone,2014,75,Total,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2016,99,Female,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2017,97,Female,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2016,92,Male,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2017,87,Male,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2016,95,Total,,%,,,,Total
+Chile,CL,CHL,152,Proportion of individuals who own a mobile telephone,2017,92,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2014,96,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2015,97,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2016,97,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2017,97,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2018,97,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2019,98,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2020,97,Male,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2014,95,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2015,96,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2016,96,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2017,97,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2018,97,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2019,97,Total,,%,,,,Total
+Hong Kong,HK,HKG,344,Proportion of individuals who own a mobile telephone,2020,97,Total,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2014,92,Female,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2015,92,Female,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2016,92,Female,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2018,90,Female,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2019,91,Female,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2014,93,Male,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2015,93,Male,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2016,92,Male,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2018,89,Male,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2019,89,Male,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2014,92,Total,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2015,92,Total,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2016,92,Total,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2018,90,Total,,%,,,,Total
+Macao,MO,MAC,446,Proportion of individuals who own a mobile telephone,2019,90,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2014,71,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2015,73,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2016,73,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2017,74,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2018,73,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2019,74,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2020,76,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2021,77,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2022,77,Female,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2014,68,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2015,70,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2016,71,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2017,72,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2018,71,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2019,72,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2020,74,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2021,75,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2022,75,Male,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2014,69,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2015,71,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2016,72,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2017,73,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2018,72,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2019,73,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2020,75,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2021,76,Total,,%,,,,Total
+Colombia,CO,COL,170,Proportion of individuals who own a mobile telephone,2022,76,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Proportion of individuals who own a mobile telephone,2015,86,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Proportion of individuals who own a mobile telephone,2015,86,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Proportion of individuals who own a mobile telephone,2015,86,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2013,19,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2014,24,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2015,32,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2016,38,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2018,51,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2019,55,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2020,63,Total,,%,,,,Total
+Cuba,CU,CUB,192,Proportion of individuals who own a mobile telephone,2021,63,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2014,95,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2015,97,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2016,93,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2017,99,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2018,98,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2014,98,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2015,99,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2016,97,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2018,99,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2014,97,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2015,98,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2016,95,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2017,99,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Proportion of individuals who own a mobile telephone,2018,99,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2014,96,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2015,97,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2020,99,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2021,99,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2022,99,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2014,97,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2015,97,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2020,99,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2021,99,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2022,99,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2014,97,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2015,97,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2020,99,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2021,99,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Proportion of individuals who own a mobile telephone,2022,99,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2017,47,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2018,58,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2019,64,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2022,61,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2017,81,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2018,75,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2019,71,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2022,66,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2015,55,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2016,60,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2017,65,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2018,66,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2019,68,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Proportion of individuals who own a mobile telephone,2022,63,Total,,%,,,,Total
+Denmark,DK,DNK,208,Proportion of individuals who own a mobile telephone,2016,83,Female,,%,,,,Total
+Denmark,DK,DNK,208,Proportion of individuals who own a mobile telephone,2016,82,Male,,%,,,,Total
+Denmark,DK,DNK,208,Proportion of individuals who own a mobile telephone,2016,83,Total,,%,,,,Total
+Djibouti,DJ,DJI,262,Proportion of individuals who own a mobile telephone,2017,52,Female,,%,,,,Total
+Djibouti,DJ,DJI,262,Proportion of individuals who own a mobile telephone,2017,61,Male,,%,,,,Total
+Djibouti,DJ,DJI,262,Proportion of individuals who own a mobile telephone,2017,56,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2016,84,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2017,69,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2018,70,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2021,75,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2016,84,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2017,70,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2018,71,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2021,74,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2015,92,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2016,84,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2017,69,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2018,71,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Proportion of individuals who own a mobile telephone,2021,74,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2013,50,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2014,53,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2015,54,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2016,55,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2017,58,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2018,58,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2019,58,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2022,58,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2023,60,Female,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2013,52,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2014,55,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2015,56,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2016,57,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2017,59,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2018,60,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2019,62,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2022,59,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2023,60,Male,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2013,51,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2014,54,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2015,55,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2016,56,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2017,59,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2018,59,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2019,60,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2020,63,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2022,59,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Proportion of individuals who own a mobile telephone,2023,60,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2014,79,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2015,83,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2016,84,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2017,97,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2018,97,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2019,98,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2020,100,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2022,96,Female,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2014,83,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2015,87,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2016,91,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2017,99,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2018,99,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2019,100,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2020,99,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2022,99,Male,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2014,81,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2015,85,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2016,87,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2017,98,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2018,98,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2019,99,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2020,99,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of individuals who own a mobile telephone,2022,97,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2014,78,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2015,78,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2014,80,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2015,81,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2014,79,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Proportion of individuals who own a mobile telephone,2015,80,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of individuals who own a mobile telephone,2015,50,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of individuals who own a mobile telephone,2016,58,Total,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2014,98,Female,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2015,98,Female,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2016,98,Female,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2017,99,Female,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2018,98,Female,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2014,99,Male,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2015,99,Male,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2016,99,Male,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2017,99,Male,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2018,99,Male,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2014,99,Total,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2015,98,Total,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2016,98,Total,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2017,99,Total,,%,,,,Total
+Finland,FI,FIN,246,Proportion of individuals who own a mobile telephone,2018,98,Total,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2018,78,Female,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2021,95,Female,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2022,94,Female,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2018,80,Male,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2021,96,Male,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2022,96,Male,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2018,79,Total,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2021,96,Total,,%,,,,Total
+France,FR,FRA,250,Proportion of individuals who own a mobile telephone,2022,95,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2016,76,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2017,78,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2018,84,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2019,88,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2020,90,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2021,90,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2022,91,Female,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2016,81,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2017,83,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2018,91,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2019,92,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2020,93,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2021,93,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2022,93,Male,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2016,78,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2017,80,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2018,87,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2019,90,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2020,91,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2021,91,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of individuals who own a mobile telephone,2022,92,Total,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2016,91,Female,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2017,95,Female,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2016,89,Male,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2017,90,Male,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2016,90,Total,,%,,,,Total
+Grenada,GD,GRD,308,Proportion of individuals who own a mobile telephone,2017,92,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2019,57,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2021,60,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2019,64,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2021,67,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2019,60,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Proportion of individuals who own a mobile telephone,2021,64,Total,,%,,,,Total
+Guinea,GN,GIN,324,Proportion of individuals who own a mobile telephone,2018,69,Female,,%,,,,Total
+Guinea,GN,GIN,324,Proportion of individuals who own a mobile telephone,2018,86,Male,,%,,,,Total
+Guinea,GN,GIN,324,Proportion of individuals who own a mobile telephone,2018,77,Total,,%,,,,Total
+Haiti,HT,HTI,332,Proportion of individuals who own a mobile telephone,2018,59,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2015,51,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2016,52,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2017,54,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2018,57,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2019,58,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2020,58,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2021,61,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2022,63,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2015,64,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2016,65,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2017,65,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2018,68,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2019,69,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2020,68,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2021,71,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2022,73,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2013,50,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2014,51,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2015,57,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2016,58,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2017,60,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2018,62,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2019,64,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2020,63,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2021,66,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Proportion of individuals who own a mobile telephone,2022,68,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2015,63,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2016,53,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2017,55,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2018,56,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2019,65,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2020,67,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2021,68,Female,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2015,76,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2016,75,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2017,77,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2018,80,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2019,77,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2020,76,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2021,76,Male,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2015,70,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2016,64,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2017,66,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2018,68,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2019,71,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2020,72,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of individuals who own a mobile telephone,2021,72,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2014,43,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2019,47,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2022,58,Female,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2014,63,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2019,68,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2022,73,Male,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2014,53,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2019,58,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of individuals who own a mobile telephone,2022,66,Total,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2017,83,Female,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2018,88,Female,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2017,83,Male,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2018,87,Male,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2017,83,Total,,%,,,,Total
+Ireland,IE,IRL,372,Proportion of individuals who own a mobile telephone,2018,87,Total,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2017,91,Female,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2018,94,Female,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2017,93,Male,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2018,95,Male,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2017,92,Total,,%,,,,Total
+Israel,IL,ISR,376,Proportion of individuals who own a mobile telephone,2018,94,Total,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2014,88,Female,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2015,89,Female,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2016,90,Female,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2014,92,Male,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2015,91,Male,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2016,93,Male,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2014,90,Total,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2015,90,Total,,%,,,,Total
+Italy,IT,ITA,380,Proportion of individuals who own a mobile telephone,2016,92,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Proportion of individuals who own a mobile telephone,2016,97,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Proportion of individuals who own a mobile telephone,2016,96,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Proportion of individuals who own a mobile telephone,2016,96,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2015,80,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2016,82,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2017,87,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2018,88,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2019,91,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2020,92,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2021,92,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2022,93,Female,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2015,82,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2016,85,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2017,90,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2018,90,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2019,93,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2020,94,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2021,94,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2022,94,Male,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2015,81,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2016,84,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2017,88,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2018,89,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2019,92,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2020,93,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2021,93,Total,,%,,,,Total
+Japan,JP,JPN,392,Proportion of individuals who own a mobile telephone,2022,94,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2016,85,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2017,86,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2018,87,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2019,88,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2020,90,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2016,86,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2017,87,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2018,89,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2019,89,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2020,91,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2021,93,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2022,90,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2016,85,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2017,87,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2018,88,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2019,88,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2020,91,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2021,93,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Proportion of individuals who own a mobile telephone,2022,93,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2015,44,Female,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2019,47,Female,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2015,46,Male,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2019,48,Male,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2015,45,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2016,45,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of individuals who own a mobile telephone,2019,47,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2017,100,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2018,99,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2019,99,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2020,100,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2021,100,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2023,98,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2017,100,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2018,99,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2019,99,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2020,99,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2021,99,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2023,99,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2017,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2018,99,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2019,99,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2020,99,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2021,99,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of individuals who own a mobile telephone,2023,98,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of individuals who own a mobile telephone,2019,83,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of individuals who own a mobile telephone,2019,80,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of individuals who own a mobile telephone,2016,79,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of individuals who own a mobile telephone,2019,82,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2014,97,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2015,96,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2016,96,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2017,96,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2018,96,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2019,96,Female,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2014,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2015,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2016,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2017,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2018,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2019,96,Male,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2014,97,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2015,96,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2016,96,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2017,96,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2018,96,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Proportion of individuals who own a mobile telephone,2019,96,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2015,92,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2017,94,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2018,95,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2019,94,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2020,95,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2021,97,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2022,97,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2015,96,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2017,97,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2018,97,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2019,97,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2020,98,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2021,98,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2022,99,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2015,95,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2017,96,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2018,96,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2019,96,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2020,96,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2021,97,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of individuals who own a mobile telephone,2022,98,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2017,73,Female,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2018,75,Female,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2019,76,Female,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2020,81,Female,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2017,79,Male,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2018,79,Male,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2019,80,Male,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2020,85,Male,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2017,76,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2018,77,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2019,78,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Proportion of individuals who own a mobile telephone,2020,83,Total,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2014,62,Female,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2015,70,Female,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2014,64,Male,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2015,73,Male,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2014,63,Total,,%,,,,Total
+Mexico,MX,MEX,484,Proportion of individuals who own a mobile telephone,2015,71,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2018,94,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2019,95,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2018,95,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2019,94,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2018,94,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2019,94,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of individuals who own a mobile telephone,2021,91,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2014,79,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2015,87,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2016,87,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2017,92,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2018,93,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2019,94,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2020,95,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2021,96,Female,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2014,85,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2015,89,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2016,91,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2017,92,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2018,92,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2019,95,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2020,96,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2021,97,Male,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2014,82,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2015,88,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2016,89,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2017,92,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2018,92,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2019,94,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2020,96,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of individuals who own a mobile telephone,2021,96,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of individuals who own a mobile telephone,2017,26,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of individuals who own a mobile telephone,2017,37,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of individuals who own a mobile telephone,2017,31,Total,,%,,,,Total
+Myanmar,MM,MMR,104,Proportion of individuals who own a mobile telephone,2017,57,Female,,%,,,,Total
+Myanmar,MM,MMR,104,Proportion of individuals who own a mobile telephone,2017,68,Male,,%,,,,Total
+Myanmar,MM,MMR,104,Proportion of individuals who own a mobile telephone,2017,62,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2014,71,Female,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2015,78,Female,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2016,82,Female,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2014,77,Male,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2015,80,Male,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2016,86,Male,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2014,74,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2015,79,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2016,84,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Proportion of individuals who own a mobile telephone,2021,87,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of individuals who own a mobile telephone,2017,55,Female,,%,,,,Total
+Niger,NE,NER,562,Proportion of individuals who own a mobile telephone,2017,77,Male,,%,,,,Total
+Niger,NE,NER,562,Proportion of individuals who own a mobile telephone,2017,65,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of individuals who own a mobile telephone,2017,32,Female,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of individuals who own a mobile telephone,2017,49,Male,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of individuals who own a mobile telephone,2017,41,Total,,%,,,,Total
+Norway,NO,NOR,578,Proportion of individuals who own a mobile telephone,2017,98,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2013,73,Female,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2016,87,Female,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2020,96,Female,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2013,80,Male,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2016,94,Male,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2020,98,Male,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2013,77,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2016,91,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of individuals who own a mobile telephone,2020,97,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2019,26,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2020,25,Female,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2019,65,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2020,65,Male,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2019,45,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of individuals who own a mobile telephone,2020,46,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2017,76,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2018,78,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2019,79,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2020,79,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2021,81,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2022,83,Female,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2017,82,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2018,84,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2019,84,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2020,85,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2021,85,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2022,86,Male,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2017,79,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2018,81,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2019,82,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2020,82,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2021,83,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of individuals who own a mobile telephone,2022,85,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of individuals who own a mobile telephone,2019,79,Total,,%,,,,Total
+Portugal,PT,PRT,620,Proportion of individuals who own a mobile telephone,2022,97,Female,,%,,,,Total
+Portugal,PT,PRT,620,Proportion of individuals who own a mobile telephone,2022,97,Male,,%,,,,Total
+Portugal,PT,PRT,620,Proportion of individuals who own a mobile telephone,2022,97,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2015,100,Female,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2018,100,Female,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2019,100,Female,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2020,100,Female,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2015,100,Male,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2018,100,Male,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2019,100,Male,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2020,100,Male,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2015,100,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2018,100,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2019,100,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of individuals who own a mobile telephone,2020,100,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2014,82,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2015,95,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2016,88,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2017,93,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2018,95,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2019,95,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2020,95,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2021,97,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2022,97,Female,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2014,88,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2015,97,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2016,92,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2017,96,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2018,97,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2019,97,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2020,97,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2021,98,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2022,98,Male,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2014,85,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2015,96,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2016,90,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2017,94,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2018,96,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2019,96,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2020,96,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2021,98,Total,,%,,,,Total
+South Korea,KR,KOR,410,Proportion of individuals who own a mobile telephone,2022,97,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Proportion of individuals who own a mobile telephone,2013,54,Total,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2019,95,Female,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2022,98,Female,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2019,97,Male,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2022,98,Male,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2019,96,Total,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2020,97,Total,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2021,98,Total,,%,,,,Total
+Romania,RO,ROU,642,Proportion of individuals who own a mobile telephone,2022,98,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2017,95,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2018,95,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2019,97,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2020,97,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2021,98,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2022,99,Female,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2017,95,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2018,95,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2019,97,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2020,97,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2021,98,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2022,99,Male,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2017,95,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2018,95,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2019,97,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2020,97,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2021,98,Total,,%,,,,Total
+Russian Federation,RU,RUS,643,Proportion of individuals who own a mobile telephone,2022,99,Total,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Proportion of individuals who own a mobile telephone,2014,97,Total,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Proportion of individuals who own a mobile telephone,2015,95,Total,,%,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,Proportion of individuals who own a mobile telephone,2016,94,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2016,49,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2017,92,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2018,92,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2019,95,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2021,100,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2022,100,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2016,71,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2017,96,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2018,97,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2019,98,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2021,100,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2022,100,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2016,62,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2017,94,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2018,95,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2019,97,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2020,98,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2021,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of individuals who own a mobile telephone,2022,100,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2016,91,Female,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2017,92,Female,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2020,92,Female,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2021,94,Female,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2022,96,Female,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2016,92,Male,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2017,93,Male,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2020,81,Male,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2021,97,Male,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2022,95,Male,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2016,92,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2017,93,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2020,94,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2021,95,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of individuals who own a mobile telephone,2022,96,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2016,88,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2017,88,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2018,93,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2019,88,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2020,88,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2021,98,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2022,99,Female,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2016,91,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2017,91,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2018,94,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2019,89,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2020,89,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2021,99,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2022,99,Male,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2016,89,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2017,89,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2018,94,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2019,88,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2020,88,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2021,98,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of individuals who own a mobile telephone,2022,99,Total,,%,,,,Total
+Slovakia,SK,SVK,703,Proportion of individuals who own a mobile telephone,2020,74,Female,,%,,,,Total
+Slovakia,SK,SVK,703,Proportion of individuals who own a mobile telephone,2020,78,Male,,%,,,,Total
+Slovakia,SK,SVK,703,Proportion of individuals who own a mobile telephone,2020,76,Total,,%,,,,Total
+Slovenia,SI,SVN,705,Proportion of individuals who own a mobile telephone,2022,98,Female,,%,,,,Total
+Slovenia,SI,SVN,705,Proportion of individuals who own a mobile telephone,2022,97,Male,,%,,,,Total
+Slovenia,SI,SVN,705,Proportion of individuals who own a mobile telephone,2022,98,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2016,55,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2017,61,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2018,81,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2019,80,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2016,52,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2017,58,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2018,78,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2019,77,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2016,54,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2017,60,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2018,80,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Proportion of individuals who own a mobile telephone,2019,78,Total,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2017,96,Female,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2019,97,Female,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2017,96,Male,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2019,97,Male,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2017,96,Total,,%,,,,Total
+Spain,ES,ESP,724,Proportion of individuals who own a mobile telephone,2019,97,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2014,65,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2018,83,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2019,70,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2022,76,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2014,82,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2018,94,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2019,79,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2022,83,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2014,74,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2018,89,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2019,75,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of individuals who own a mobile telephone,2022,79,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of individuals who own a mobile telephone,2016,54,Female,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of individuals who own a mobile telephone,2016,70,Male,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of individuals who own a mobile telephone,2016,63,Total,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2019,92,Female,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2021,98,Female,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2019,94,Male,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2021,98,Male,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2019,93,Total,,%,,,,Total
+Switzerland,CH,CHE,756,Proportion of individuals who own a mobile telephone,2021,98,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2013,73,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2014,77,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2015,79,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2016,81,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2017,88,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2020,84,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2021,86,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2022,88,Female,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2013,73,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2014,77,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2015,80,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2016,82,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2017,88,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2020,83,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2021,87,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2022,89,Male,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2013,73,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2014,77,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2015,79,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2016,81,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2017,88,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2020,84,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2021,87,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of individuals who own a mobile telephone,2022,88,Total,,%,,,,Total
+Togo,TG,TGO,768,Proportion of individuals who own a mobile telephone,2017,39,Female,,%,,,,Total
+Togo,TG,TGO,768,Proportion of individuals who own a mobile telephone,2017,49,Male,,%,,,,Total
+Togo,TG,TGO,768,Proportion of individuals who own a mobile telephone,2017,44,Total,,%,,,,Total
+Tonga,TO,TON,776,Proportion of individuals who own a mobile telephone,2021,62,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2019,77,Female,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2019,83,Male,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2015,82,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2016,83,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2017,89,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2018,88,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of individuals who own a mobile telephone,2019,80,Total,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2020,89,Female,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2021,90,Female,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2022,92,Female,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2023,94,Female,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2020,96,Male,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2021,97,Male,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2022,97,Male,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2023,98,Male,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2020,93,Total,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2021,93,Total,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2022,94,Total,,%,,,,Total
+Turkey,TR,TUR,792,Proportion of individuals who own a mobile telephone,2023,96,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2020,90,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2021,91,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2020,89,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2021,90,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2014,39,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2016,37,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2020,89,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Proportion of individuals who own a mobile telephone,2021,91,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2016,99,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2017,99,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2018,100,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2019,100,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2020,100,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2021,100,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2022,100,Female,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2016,99,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2017,99,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2018,100,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2019,100,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2020,100,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2021,100,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2022,100,Male,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2014,100,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2016,99,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2017,99,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2018,100,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2019,100,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2020,100,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2021,100,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Proportion of individuals who own a mobile telephone,2022,100,Total,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2014,78,Female,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2015,80,Female,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2017,77,Female,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2018,83,Female,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2019,84,Female,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2014,76,Male,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2015,78,Male,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2017,75,Male,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2018,82,Male,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2019,82,Male,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2014,77,Total,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2015,79,Total,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2017,76,Total,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2018,83,Total,,%,,,,Total
+Uruguay,UY,URY,858,Proportion of individuals who own a mobile telephone,2019,83,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2017,54,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2018,59,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2019,62,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2020,66,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2021,64,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2022,74,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2017,73,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2018,77,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2019,78,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2020,78,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2021,81,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2022,84,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2017,64,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2018,68,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2019,70,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2020,72,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2021,72,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Proportion of individuals who own a mobile telephone,2022,79,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2019,77,Female,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2019,78,Male,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2019,78,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2020,79,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2021,77,Total,,%,,,,Total
+Vietnam,VN,VNM,704,Proportion of individuals who own a mobile telephone,2022,79,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Proportion of individuals who own a mobile telephone,2018,45,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Proportion of individuals who own a mobile telephone,2018,44,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Proportion of individuals who own a mobile telephone,2018,45,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Proportion of individuals who own a mobile telephone,2020,47,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of individuals who own a mobile telephone,2020,48,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of individuals who own a mobile telephone,2020,46,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of individuals who own a mobile telephone,2020,47,Total,,%,,,,Total
